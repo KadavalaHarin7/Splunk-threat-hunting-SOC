@@ -13,33 +13,7 @@ This project simulates a Tier-1 SOC analyst investigation using Splunk as the SI
 The environment uses Apache web logs, simulated firewall logs, and Windows Security logs generated and analyzed in a controlled virtual lab.
 
 
-
-&#x20;Objectives
-
-
-
-\- Ingest and analyze multiple security log sources in Splunk.
-
-\- Investigate suspicious web requests and reconnaissance behavior.
-
-\- Analyze Windows authentication activity.
-
-\- Examine firewall connection activity.
-
-\- Correlate activity across different log sources.
-
-\- Perform time-based threat hunting.
-
-\- Build basic SOC monitoring dashboards.
-
-\- Document an analyst-oriented investigation workflow.
-
-
-
 &#x20;Architecture
-
-
-
 
 
 &#x20;                   ┌─────────────────────┐
@@ -285,4 +259,6 @@ Project Outcome
 
 
 This project provided hands-on practice with SIEM-based threat hunting, multi-source log analysis, SPL searching, event correlation, timeline reconstruction, and SOC dashboarding in a controlled environment.
+
+
 
