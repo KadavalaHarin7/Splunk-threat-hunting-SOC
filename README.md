@@ -1,4 +1,4 @@
-&#x20;Splunk Threat Hunting — Multi-Source SOC Investigation
+&#x20;SOC Threat Hunting & Multi-Source Log Correlation Using Splunk SIEM
 
 
 
