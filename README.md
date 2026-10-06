@@ -254,11 +254,20 @@ Technologies
 
 
 
-Project Outcome
-
-
+ Project Outcome
 
 This project provided hands-on practice with SIEM-based threat hunting, multi-source log analysis, SPL searching, event correlation, timeline reconstruction, and SOC dashboarding in a controlled environment.
+
+Key capabilities demonstrated:
+
+- Ingesting and analyzing multiple security log sources in Splunk
+- Investigating suspicious web requests and potential reconnaissance activity
+- Analyzing Windows authentication activity
+- Examining firewall connection activity
+- Correlating activity across different log sources
+- Performing time-based threat hunting
+- Building SOC monitoring dashboards
+- Documenting an analyst-oriented investigation workflow
 
 
 
