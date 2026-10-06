@@ -1,0 +1,3 @@
+index=apache_logs ("union" OR "../" OR "admin")
+| table _time _raw
+| sort _time

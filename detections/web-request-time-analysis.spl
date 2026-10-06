@@ -1,0 +1,2 @@
+index=apache_logs ("union" OR "../" OR "admin")
+| stats count by _time
